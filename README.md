@@ -1,4 +1,4 @@
-I am a Full-stack Software Developer experienced in Javascript technologies such as React, Typescript, GraphQl, Express and NodeJs, as well as DBRMS's including MongoDb and PostgreSQL.
+I am a Full-stack Software Developer experienced in Javascript technologies such as React, Typescript, GraphQl, Express and NodeJs, as well as MongoDb and PostgreSQL.
 
 I'm passionate about building applications using a methodical, structured approach in order to deliver coherent, logical and well-organised code. I have a keen eye for detail, which is essential for producing clean, durable code that requires less debugging and accrues less technical debt. I thrive on clear communication and value working in a well-organised, focused and determined team.
 

@@ -1,5 +1,5 @@
-I am a Full-stack Software Developer experienced in Javascript technologies such as React, Typescript, GraphQl, Express and NodeJs, as well as MongoDb and PostgreSQL.
+I am a Front End Software Developer with professional experience building applications using ReactJS, TypeScript, and GraphQL. My professional experience also includes thorough application testing with frameworks like Playwright, Cypress, and Jest.
 
-I'm passionate about building applications using a methodical, structured approach in order to deliver coherent, logical and well-organised code. I have a keen eye for detail, which is essential for producing clean, durable code that requires less debugging and accrues less technical debt. I thrive on clear communication and value working in a well-organised, focused and determined team.
+I am dedicated to crafting applications through a methodical and structured approach, ensuring coherent, logical, and well-organized code. My attention to detail is crucial for producing clean, durable code that minimizes debugging and technical debt. I excel in clear communication and enjoy collaborating with a well-organized, focused, and determined team.
 
-My passions include Music and Music Composition. I sing and play guitar and piano, and used to perform twice a week at the Cavern Club in Liverpool as a resident artist. Other hobbies include Bouldering and Cycling.
+Outside of development, I am passionate about music and music composition. I sing, play guitar and piano, and have performed regularly as a resident artist at the Cavern Club in Liverpool. Additionally, I enjoy bouldering and cycling.
